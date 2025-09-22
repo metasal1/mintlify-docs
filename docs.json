@@ -11,6 +11,17 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "Projects",
+        "groups": [
+          {
+            "group": "Projects",
+            "pages": [
+              "projects/index"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "Guides",
         "groups": [
           {
